@@ -14,8 +14,8 @@
 		position:absolute;
 		top: 100%;
 		left: 50%;
-        transform: translate(100%, 110%);
-		/*margin-top: 490px;
+        transform: translate(100%, -110%);
+		/*margin-top: 90px;
 		margin-left: -250px;*/
 	
 	}
