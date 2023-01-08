@@ -12,10 +12,10 @@
 
 	.centerlogin {
 		position:absolute;
-		top: 50%;
+		top: 100%;
 		left: 50%;
-        transform: translate(100%, -110%);
-		/*margin-top: -490px;
+        transform: translate(100%, 110%);
+		/*margin-top: 490px;
 		margin-left: -250px;*/
 	
 	}
