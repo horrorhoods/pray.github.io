@@ -34,7 +34,7 @@ a {
 
 .card {
     background: #1f160e6e;
-    box-shadow: 0 8px 32px 0 #94657e;
+    box-shadow: 0 8px 32px 0 #ff5252;
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(6px);
     border-radius: 10px;
