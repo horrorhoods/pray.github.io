@@ -61,7 +61,7 @@ async function setAvatarFrame() {
         statusDot.style.background =
             '#747e8c';
         statusDot.title = 'Offline';
-        status2.innerHTML = "Offline <br> FRVR ダーク";
+        status2.innerHTML = "Offline <br> re:born すぐ";
         status2.style.cssText = 'color: unset; opacity: 0.5;';
         break;
     }
@@ -142,7 +142,7 @@ async function setActivityName() {
     } = await fetchResponse(USERID);
     const mostRecent = activities.filter(m => m.type !== 4).shift();
     if (!mostRecent?.name) {
-        name.innerHTML = 'Rather be a Ghost.';
+        name.innerHTML = '寒さが激しく襲った';
         return;
     }
     name.style.display = 'block';
